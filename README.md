@@ -1,4 +1,4 @@
-# 📜 CURRICULUM VITAE
+# CURRICULUM VITAE
 
 ## 🔗 LIEN VERS LE PROJET
 
@@ -6,7 +6,7 @@
 
 ## 🎯 OBJECTIFS
 
-Utiliser CSS GRID
+Utiliser le système de grille CSS
 
 ## 👉 CONSIGNES
 
@@ -18,11 +18,11 @@ Utiliser CSS GRID
 
 ## 🌐 LANGUAGE UTILISÉ
 
-HTML & CSS
+HTML & CSS Grid
 
 ## ⏰ ÉTAT D'AVANCEMENT
 
-- J'ai posé les bases, je dois peaufiner 🙃
+- Quelques modifs à faire 🙃
 
 ## 👀 APERÇU DU PROJET
 
