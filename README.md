@@ -1,5 +1,9 @@
 # 📜 CURRICULUM VITAE
 
+## 🔗 LIEN VERS LE PROJET
+
+[https://evalambert.github.io/cv/](https://evalambert.github.io/cv/)
+
 ## 🎯 OBJECTIFS
 
 Utiliser CSS GRID
@@ -19,10 +23,6 @@ HTML & CSS
 ## ⏰ ÉTAT D'AVANCEMENT
 
 - J'ai posé les bases, je dois peaufiner 🙃
-
-## 🔗 LIEN VERS LE PROJET
-
-![Lien vers mon projet](https://evalambert.github.io/cv/)
 
 ## 👀 APERÇU DU PROJET
 
